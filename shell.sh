@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+
+HEAD master in the school mpup
 hii balaji
 hii shell script .......hoooo
 hello this is shell script
