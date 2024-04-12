@@ -1,0 +1,256 @@
+Resume Preparation
+------------------   
+                    
+Resume Name: BhaskarReddy_15Years_Java_DevOps.doc
+
+BhaskarReddy_10Years_QA_DevOps.doc
+
+BhaskarReddy_10Years_DBA_DevOps.doc
+
+resume.doc
+bhaskar.doc
+
+BhaskarReddy_3Years_AWS_DevOps.doc
+
+
+
+	Having 10 years of  IT experience this includes 3+ years of experience as DevOps Engineer with exposure to Software Configuration Management, Build and Release Management, continuous Integration and Deployment.
+
+
+	Having 6 years of  experience this includes 3+ years of experience as DevOps Engineer with exposure to Software Configuration Management, Build and Release Management, continuous Integration and Deployment.
+
+
+
+Devops --> Wrong
+DevOps --> Correct
+
+
+genkins--> Wrong
+Jenkins --> Correct
+
+0 - 4 --> DevOps Eng
+
+6 to 7 --> Sr DevOps Eng
+
+7 to 10 --> DevOps arch
+
+DevOps Manager
+
+DevOps Engineer
+SRE
+
+
+
+Infrastructure/Cloud Engineer
+
+
+Keep all words first character is capital letter like below.
+ 
+Maven Build Tool
+Docker Containerisation Tool
+
+
+Keep all the know tools only.
+Keep all the known roles and responsibilitis only.
+
+Just know breaf about Project and number of modules and names.
+
+Need to know client of that project.
+
+Remember about your consultancies name, address,HR name and PM.
+
+Infics Info Systems Pvt Ltd --> Payroll Compnay
+For 3 years DevOps
+
+-----------------------------------------------------------------------
+Tell me about your self?
+
+Ans)My Name is XXXXXXX,
+I am having X Years of experience as a DevOps Engineer,
+For the last XX years I have been working in XXX Company as a DevOps Engineer. 
+In that position, I have worked on various tools like Git,GitHub, build tools like Maven, Sonarqube as a source code management tool, Nexus is the Arftifactory repo, Jenkins is my CI server, Ansible, DOcker for Containerisation Deployment,K8, Newrelic, Grafana, is the monitoring tool. .. AWS..
+ 
+Coming to my roles and responsibilities
+-—-------------------------------------
+--Created and Maintained Github repositories, branches and tags for multiple projects.
+--Configuring Maven scripts with Jenkins based on type of project.
+--Automating the Build process using Git and Maven
+--Configured Git with Jenkins and schedule jobs using Poll SCM option
+--Build, release and configuration management of production systems.
+--Experiecned in docker,docker swarm and K8s.
+-- Created the Multiple Pipeline scripts to make CICD process .
+--Good in writing docker files,docker compose files and K8 Manifest files.
+--Automating deployment in K8s cluster using docker and jenkins.
+
+--Have Strong scripting and automation skills.
+--Have good knowledge on Windows and Linux system administration.
+--Have Experience with system monitoring tools (e.g. NewRelic).
+--Deploying, automating, maintaining and managing AWS cloud based production system,
+  to ensure the availability, performance, scalability and security of productions         
+  systems.
+ 
+ While explaining about your self, mention the positive points about your company
+ and your boss.
+
+ -Your points should be benificial to the company and the job role you are applying.
+
+ Like: I have suggested the SonarQube for Source COde Quality Mgt 
+ With this devlopment team achived the healthy code.
+
+ Suggested the Git Best Practices.
+ Provided the Trainings on Git..
+
+
+ 
+------------------------------------------------------------------------
+
+Salary BreakUp Letter  --> Wipro
+
+OfferLetter/Employment Letter  
+
+Releaving Letter 
+Experience Letter/ Service Letter
+
+How many days your notice Period?   --> 90 days
+
+Are you serving notice Period? 
+
+Are you Permanent to Volvo?
+
+Say No, I am working under payroll of XXX company and deputed in client location Volvo.
+
+What is your payrool compnay name?
+Say your consultency name. Dont call consultancy any time.
+
+Can you tell me your daily activities?
+
+Agile Methodlogy 
+-----------------
+
+Scrum Metting
+
+Scrum master  
+
+Everyday we have scrum meeting/Standup meeting.(15 mins as per Agile standards)
+In meeting we will discuss what we did yesterday and and what we are going
+to do today.
+If any blockers, we will call out in standup meeting.
+Scrum Master will work with respective person will resolve.
+
+I will check my Jira board, what are the tasks are assigned to me,
+
+I will start working on based on priority.
+
+5 Tasks
+
+2 High Pri
+2 Medium Pri
+1 Low Pri
+
+
+If any new project on boarded, I will do set up for that project from scratch.
+and will support for already existing job which we created in Jenkins.
+If any job will fail, will look into that and will resoleve.
+
+
+Can you tell me some challenges which you have faced in your recenet projects?
+
+
+Sprint Planning meeting 2 Weeks
+-----------------------
+
+Planning Poker Cards
+
+1 2 3 5 8 13 15 ? 
+
+Story Points  8
+
+User Stories  - Install jenkins 8 
+
+Tasks
+- Get the Linux Server 2 
+- Update Packages 2
+- Install the Java 1
+- Install Jenkins 3
+
+2 Weeks
+Retrospective meeting 30 mins
+---------------------
+The Sprint Retrospective occurs after the Sprint Review and prior to the next Sprint Planning.
+
+1)What went well in the Sprint
+Team Collaboration
+
+
+2)What went wrong in the Sprint
+
+
+3)What could be improved
+
+
+4)What we learned 
+
+
+I am OOO --> Out Of Office
+
+NNTO : Today I am WFH
+
+
+BRB 10 mins
+
+Thank you sir
+
+YW --> Your Welcome 
+
+
+ASAP
+
+I will do todAY EOD
+
+
+EOM
+
+MOM
+
+------------------------------------------------------------------------
+
+Job Portals
+-----------
+
+Naukari
+Monster
+
+LinkedIn
+
+There are lots of opportunity in http://www.dice.com in US and Canada
+
+Indeed
+
+----------------------------------------------------------------------------------------
+Day to Day activities for a DevOps Engineer.
+
+1.	Make sure that the pipeline is running smoothly – This is one of the most important task of a DevOps engineer to make sure that CI/CD pipeline is intact and fixing any issue or failure with it is the #1 priority for the day. They often need to spend time on troubleshooting, analysing and providing fixes to issues.
+
+2.	Interaction with other teams – Co-ordination and collaboration is the key for DevOps to be successful and hence daily integration with Dev and QA team, Program management, It is always required.
+
+3.	Work on Automation Backlog – Automation is soul of DevOps , so DevOps engineering need to plan it out and I can see DevOps engineer spending lots of time behind the keyboard working on Automating stuff on daily basis.
+
+4.	Infrastructure Management – DevOps engineer are also responsible for maintaining and managing the infrastructure required for CI/CD pipeline and making sure that its up and running and being used optimally is also part of their daily schedule. Ex. Working on Backup, High Availability, New Platform setup etc
+
+5.	Dealing with Legacy stuff – Not everyone is lucky to work on latest and newest things and DevOps engineers are no exception hence they also need to spend time on legacy i.e. in terms of supporting it or migrating to the latest.
+
+6.	Exploration – DevOps leverage a lot from the various tools which are available, there are many options as open source so team need to regularly check on this to make sure the adoptions as required, this is something which also require some effort not on daily but regular basis. Ex. What are open source options available to keep the cost at minimum?
+
+7.	Removing bottleneck – DevOps primary purpose is identify the bottlenecks / Manual handshakes and work with everyone involved (Dev / QA and all other stakeholder) to remove them so team spend good amount of time in finding such things and build the Automation Backlog using this. Ex. How we can get builds faster?
+
+8.	Documentation – Though Agile / DevOps stresses less on the documentation, it is still the important one which DevOps engineer does on daily basis, Be it Server Information, Daily Week charted, Scrum / Kanban board or Simple steps to configure / backup or modify the infrastructure, you need to spent good amount of time in coming up these artifacts.
+
+9.	Training and Self Development – Self leaning and Training is very useful in getting better understanding and many organisations encourage their employee to take the time out and do some of these and same holds true for DevOps folks as well, So learn something new everyday...
+
+10.	Continuous Improvement as Practice – Last but not least, It’s up to the DevOps folks to build awareness on the potential of CI/CD and DevOps practices and building a culture of leveraging it for doing things better, reducing re-work, increasing the productivity and optimising the use of existing resources. Go and talk to people to build the DevOps and Continuous Improvement culture...
+
+
+
+7090600479
+
+
